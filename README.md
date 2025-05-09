@@ -1,1 +1,0 @@
-# Stock-Crypto-Portfolio-Management-App
